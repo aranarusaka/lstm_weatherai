@@ -1,4 +1,4 @@
-## 1) Clone repository kalo perlu
+## 1) Clone repository kalau perlu
 
 ```powershell
 git clone <repo-url>
@@ -40,4 +40,5 @@ streamlit run app.py
 - (Opsional) Ambil data BMKG untuk membandingkan/kombinasi data lokal.
 - Tekan "Train Model", melatih LSTM.
 - Tekan "Run Prediction", menghasilkan prakiraan 24 jam dari data terakhir.
+
 
